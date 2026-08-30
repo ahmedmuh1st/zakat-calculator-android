@@ -1,0 +1,46 @@
+# Dependencies and package-manager output
+node_modules/
+
+# Expo and generated native projects
+.expo/
+dist/
+web-build/
+android/
+ios/
+expo-env.d.ts
+.metro-health-check*
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p8
+*.p12
+*.pem
+*.key
+*.mobileprovision
+*service-account*.json
+*play-publisher*.json
+
+# Builds and archives
+*.apk
+*.aab
+*.ipa
+*.map
+*.tgz
+*.tar.gz
+.cache/
+
+# Logs, editors and operating systems
+*.log
+logs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.tsbuildinfo

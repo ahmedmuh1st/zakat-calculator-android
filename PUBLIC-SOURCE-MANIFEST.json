@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "project": "Zakat Calculator",
+  "platformSource": "android",
+  "appVersion": "1.0.7",
+  "buildNumber": "10007",
+  "validatedCheckpoint": "android-public-1.0.7-2026-08-29",
+  "validatedAt": "2026-08-30T06:54:39.051Z",
+  "testFilesPassed": 85,
+  "testsPassed": 287,
+  "testsSkipped": 0,
+  "lint": "passed",
+  "typecheck": "passed",
+  "secretScan": "passed",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "contentSha256": "a7a07c9137338cb20f5bcdfb581daa250ce59d742bc471f8b1bd85ed8fd3630c",
+  "archiveSha256File": "source-android-latest.tar.gz.sha256",
+  "developerOwnedCredentials": [
+    "Developer-owned Android signing credentials for Android distribution",
+    "An Expo account and optional EXPO_TOKEN for EAS cloud builds"
+  ]
+}
